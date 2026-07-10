@@ -1,0 +1,57 @@
+# ========================
+# Sensitive Data / IP
+# ========================
+ALL FOLDERS/
+pdf/
+prompts/
+*.pdf
+
+# ========================
+# Node / Frontend
+# ========================
+node_modules/
+dist/
+dist-ssr/
+.oxlintrc.json
+
+# ========================
+# Python / Backend
+# ========================
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+backend/uploads/
+backend/faiss_store/
+*.db
+
+# ========================
+# Environment Variables
+# ========================
+.env
+.env.*
+*.local
+
+# ========================
+# Logs
+# ========================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.system_generated/
+
+# ========================
+# System & Editor
+# ========================
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
