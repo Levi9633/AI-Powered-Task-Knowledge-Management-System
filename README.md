@@ -138,6 +138,15 @@ A focused, distraction-free environment for users to complete assigned tasks, se
 | **User Tasks & User Documents** | **User Profile** |
 | <img src="Output/User/User%20all%20task.png" width="400" /><br/><img src="Output/User/User%20Docs.png" width="400" /> | <img src="Output/User/profile.png" width="400" /> |
 
+<br />
+
+### ⌗ Backend API (Swagger UI)
+Auto-generated interactive API documentation mapping out every backend endpoint, allowing for rapid testing and payload verification.
+
+| Auth, Tasks & Docs Endpoints | Search & Analytics Endpoints |
+|:---:|:---:|
+| <img src="Output/Swagger%20UI/UI1.png" width="400" /> | <img src="Output/Swagger%20UI/UI2.png" width="400" /> |
+
 ---
 
 ## ⬡ AI Search Architecture Workflow
